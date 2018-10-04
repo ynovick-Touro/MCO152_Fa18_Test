@@ -2,7 +2,7 @@
 public class MessageGenerator {
 	public static String getMsg()
 	{
-		return "Hello Planet!";
+		return "PSA: Be careful";
 	}
 	
 	public static void foo()
