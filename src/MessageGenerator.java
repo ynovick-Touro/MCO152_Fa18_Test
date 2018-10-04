@@ -7,7 +7,7 @@ public class MessageGenerator {
 	
 	public static void foo()
 	{
-		int x = 7;
+		int x = 23;
 		System.out.println(x);		
 	}
 }
