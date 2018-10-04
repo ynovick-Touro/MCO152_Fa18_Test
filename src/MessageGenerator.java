@@ -4,4 +4,10 @@ public class MessageGenerator {
 	{
 		return "Hello Planet!";
 	}
+	
+	public static void foo()
+	{
+		int x = 7;
+		System.out.println(x);		
+	}
 }
